@@ -47,7 +47,7 @@
         { "selector": ".fui-user", "text": ["Ingin mendandani Waifu nya?"] },
         { "selector": ".fui-photo", "text": ["Ingin mengambil foto kenang-kenangan?"] },
         { "selector": ".fui-info-circle", "text": ["berikut adalah informasi tentang saya"] },
-        { "selector": ".fui-cross", "text": [Bukankah kau menyukaiku.."] },
+        { "selector": ".fui-cross", "text": ["Bukankah kau menyukaiku.."] },
         { "selector": "#tor_show", "text": ["Apakah sulit membalik halaman? Klik untuk menampilkan daftar isi artikel ini"] },
         { "selector": "#comment_go", "text": ["Mau berkomentar?"] },
         { "selector": "#night_mode", "text": ["Jaga mata Anda di malam hari"] },
