@@ -2,7 +2,7 @@
     "waifu": {
         "console_open_msg": ["Haha, kamu membuka konsol, apakah kamu ingin melihat rahasiaku?"],
         "copy_message": ["Apa yang telah Anda salin, ingatlah untuk menambahkan sumbernya saat mencetak ulang"],
-        "screenshot_message": [Dilakukan dengan baik, bukankah itu lucu?"],
+        "screenshot_message": ["Dilakukan dengan baik, bukankah itu lucu?"],
         "hidden_message": ["Bisakah kita bertemu lagi..."],
         "load_rand_textures": ["Saya belum punya pakaian lain", "Apakah pakaian baru saya terlihat bagus"],
         "hour_tips": {
